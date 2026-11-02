@@ -1,0 +1,98 @@
+batch_id,region,sku,sku_name,stock_units,expiry_date,unit_cost
+B0001,Sunrise East,AMLO5,Amlodipine 5mg,2246,2026-11-25,1.5
+B0002,Sunrise East,AMLO5,Amlodipine 5mg,434,2028-02-23,1.5
+B0003,Sunrise East,AMLO5,Amlodipine 5mg,4609,2027-05-30,1.5
+B0004,Sunrise East,AMOX500,Amoxicillin 500mg,5326,2027-11-10,3.0
+B0005,Sunrise East,AMOX500,Amoxicillin 500mg,7886,2028-01-18,3.0
+B0006,Sunrise East,ATOR10,Atorvastatin 10mg,618,2027-02-12,2.2
+B0007,Sunrise East,ATOR10,Atorvastatin 10mg,11841,2028-04-20,2.2
+B0008,Sunrise East,ATOR10,Atorvastatin 10mg,8981,2027-01-02,2.2
+B0009,Sunrise East,CETI10,Cetirizine 10mg,2345,2027-05-22,1.0
+B0010,Sunrise East,CETI10,Cetirizine 10mg,2272,2026-11-25,1.0
+B0011,Sunrise East,CETI10,Cetirizine 10mg,6560,2027-06-12,1.0
+B0012,Sunrise East,CETI10,Cetirizine 10mg,2686,2027-04-27,1.0
+B0013,Sunrise East,IBU400,Ibuprofen 400mg,1946,2027-07-08,1.2
+B0014,Sunrise East,IBU400,Ibuprofen 400mg,1947,2027-11-15,1.2
+B0015,Sunrise East,IBU400,Ibuprofen 400mg,8627,2027-07-04,1.2
+B0016,Sunrise East,IBU400,Ibuprofen 400mg,14777,2027-04-18,1.2
+B0017,Sunrise East,OMEP20,Omeprazole 20mg,3363,2028-03-05,1.8
+B0018,Sunrise East,OMEP20,Omeprazole 20mg,3127,2027-09-10,1.8
+B0019,Sunrise East,OMEP20,Omeprazole 20mg,3118,2028-01-07,1.8
+B0020,Sunrise East,PARA500,Paracetamol 500mg,2531,2028-04-21,0.8
+B0021,Sunrise East,PARA500,Paracetamol 500mg,8404,2026-11-23,0.8
+B0022,Sunrise East,TIMO_ED,Timolol eye drops,8460,2027-01-28,45.0
+B0023,Sunrise East,TIMO_ED,Timolol eye drops,6059,2027-06-26,45.0
+B0024,Sunrise East,TIMO_ED,Timolol eye drops,2270,2028-02-09,45.0
+B0025,Sunrise Main Campus,AMLO5,Amlodipine 5mg,5557,2026-11-22,1.5
+B0026,Sunrise Main Campus,AMLO5,Amlodipine 5mg,4483,2027-07-03,1.5
+B0027,Sunrise Main Campus,AMLO5,Amlodipine 5mg,3424,2028-01-17,1.5
+B0028,Sunrise Main Campus,AMOX500,Amoxicillin 500mg,5917,2028-04-03,3.0
+B0029,Sunrise Main Campus,AMOX500,Amoxicillin 500mg,24123,2028-02-28,3.0
+B0030,Sunrise Main Campus,AMOX500,Amoxicillin 500mg,2509,2027-12-19,3.0
+B0031,Sunrise Main Campus,ATOR10,Atorvastatin 10mg,9946,2027-08-31,2.2
+B0032,Sunrise Main Campus,ATOR10,Atorvastatin 10mg,5638,2027-09-27,2.2
+B0033,Sunrise Main Campus,CETI10,Cetirizine 10mg,2079,2027-11-10,1.0
+B0034,Sunrise Main Campus,CETI10,Cetirizine 10mg,1529,2027-01-17,1.0
+B0035,Sunrise Main Campus,CETI10,Cetirizine 10mg,1152,2028-04-14,1.0
+B0036,Sunrise Main Campus,IBU400,Ibuprofen 400mg,1326,2027-10-14,1.2
+B0037,Sunrise Main Campus,IBU400,Ibuprofen 400mg,4776,2027-11-23,1.2
+B0038,Sunrise Main Campus,OMEP20,Omeprazole 20mg,799,2027-09-25,1.8
+B0039,Sunrise Main Campus,OMEP20,Omeprazole 20mg,6904,2027-08-30,1.8
+B0040,Sunrise Main Campus,OMEP20,Omeprazole 20mg,828,2028-02-25,1.8
+B0041,Sunrise Main Campus,OMEP20,Omeprazole 20mg,1984,2028-04-11,1.8
+B0042,Sunrise Main Campus,PARA500,Paracetamol 500mg,2268,2027-07-18,0.8
+B0043,Sunrise Main Campus,PARA500,Paracetamol 500mg,4790,2028-02-14,0.8
+B0044,Sunrise Main Campus,PARA500,Paracetamol 500mg,2554,2026-12-12,0.8
+B0045,Sunrise Main Campus,PARA500,Paracetamol 500mg,4799,2028-01-11,0.8
+B0046,Sunrise Main Campus,TIMO_ED,Timolol eye drops,2698,2027-10-11,45.0
+B0047,Sunrise Main Campus,TIMO_ED,Timolol eye drops,3156,2028-02-26,45.0
+B0048,Sunrise Main Campus,TIMO_ED,Timolol eye drops,22036,2027-02-25,45.0
+B0049,Sunrise North,AMLO5,Amlodipine 5mg,3149,2028-02-12,1.5
+B0050,Sunrise North,AMLO5,Amlodipine 5mg,2962,2028-04-24,1.5
+B0051,Sunrise North,AMLO5,Amlodipine 5mg,2175,2027-02-03,1.5
+B0052,Sunrise North,AMLO5,Amlodipine 5mg,2029,2027-02-03,1.5
+B0053,Sunrise North,AMOX500,Amoxicillin 500mg,2498,2027-02-10,3.0
+B0054,Sunrise North,AMOX500,Amoxicillin 500mg,8444,2026-12-30,3.0
+B0055,Sunrise North,AMOX500,Amoxicillin 500mg,2450,2027-06-17,3.0
+B0056,Sunrise North,AMOX500,Amoxicillin 500mg,5666,2028-03-11,3.0
+B0057,Sunrise North,ATOR10,Atorvastatin 10mg,4649,2027-07-31,2.2
+B0058,Sunrise North,ATOR10,Atorvastatin 10mg,4878,2027-03-21,2.2
+B0059,Sunrise North,CETI10,Cetirizine 10mg,566,2027-07-27,1.0
+B0060,Sunrise North,CETI10,Cetirizine 10mg,10206,2028-04-23,1.0
+B0061,Sunrise North,CETI10,Cetirizine 10mg,15569,2027-11-11,1.0
+B0062,Sunrise North,CETI10,Cetirizine 10mg,1113,2027-04-20,1.0
+B0063,Sunrise North,IBU400,Ibuprofen 400mg,8416,2027-03-16,1.2
+B0064,Sunrise North,IBU400,Ibuprofen 400mg,875,2027-10-06,1.2
+B0065,Sunrise North,IBU400,Ibuprofen 400mg,1406,2027-03-05,1.2
+B0066,Sunrise North,IBU400,Ibuprofen 400mg,2707,2026-11-29,1.2
+B0067,Sunrise North,OMEP20,Omeprazole 20mg,5284,2027-07-09,1.8
+B0068,Sunrise North,OMEP20,Omeprazole 20mg,1007,2027-05-31,1.8
+B0069,Sunrise North,OMEP20,Omeprazole 20mg,21181,2027-03-29,1.8
+B0070,Sunrise North,OMEP20,Omeprazole 20mg,3398,2027-04-15,1.8
+B0071,Sunrise North,PARA500,Paracetamol 500mg,4784,2027-11-04,0.8
+B0072,Sunrise North,PARA500,Paracetamol 500mg,3901,2027-02-04,0.8
+B0073,Sunrise North,PARA500,Paracetamol 500mg,1450,2027-02-28,0.8
+B0074,Sunrise North,TIMO_ED,Timolol eye drops,3468,2027-09-29,45.0
+B0075,Sunrise North,TIMO_ED,Timolol eye drops,2131,2026-12-30,45.0
+B0076,Sunrise North,TIMO_ED,Timolol eye drops,10666,2027-03-14,45.0
+B0077,Sunrise South,AMLO5,Amlodipine 5mg,1234,2027-04-14,1.5
+B0078,Sunrise South,AMLO5,Amlodipine 5mg,476,2027-11-06,1.5
+B0079,Sunrise South,AMLO5,Amlodipine 5mg,1622,2027-12-20,1.5
+B0080,Sunrise South,AMOX500,Amoxicillin 500mg,4630,2027-03-30,3.0
+B0081,Sunrise South,AMOX500,Amoxicillin 500mg,724,2027-08-29,3.0
+B0082,Sunrise South,ATOR10,Atorvastatin 10mg,1395,2027-08-10,2.2
+B0083,Sunrise South,ATOR10,Atorvastatin 10mg,3568,2027-02-12,2.2
+B0084,Sunrise South,CETI10,Cetirizine 10mg,931,2026-12-21,1.0
+B0085,Sunrise South,CETI10,Cetirizine 10mg,5018,2027-06-13,1.0
+B0086,Sunrise South,CETI10,Cetirizine 10mg,891,2027-03-27,1.0
+B0087,Sunrise South,IBU400,Ibuprofen 400mg,2012,2027-01-27,1.2
+B0088,Sunrise South,IBU400,Ibuprofen 400mg,2082,2027-12-11,1.2
+B0089,Sunrise South,IBU400,Ibuprofen 400mg,2442,2027-04-25,1.2
+B0090,Sunrise South,OMEP20,Omeprazole 20mg,1552,2028-02-21,1.8
+B0091,Sunrise South,OMEP20,Omeprazole 20mg,747,2026-12-24,1.8
+B0092,Sunrise South,OMEP20,Omeprazole 20mg,662,2027-12-10,1.8
+B0093,Sunrise South,OMEP20,Omeprazole 20mg,951,2027-12-22,1.8
+B0094,Sunrise South,PARA500,Paracetamol 500mg,3519,2027-10-03,0.8
+B0095,Sunrise South,PARA500,Paracetamol 500mg,1191,2027-10-07,0.8
+B0096,Sunrise South,TIMO_ED,Timolol eye drops,1506,2027-09-30,45.0
+B0097,Sunrise South,TIMO_ED,Timolol eye drops,8590,2027-04-18,45.0

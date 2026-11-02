@@ -1,0 +1,9 @@
+pandas
+numpy
+prophet
+mlflow
+joblib
+streamlit
+plotly
+requests
+tabulate

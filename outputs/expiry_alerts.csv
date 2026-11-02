@@ -1,0 +1,18 @@
+batch_id,region,sku,sku_name,stock_units,expiry_date,unit_cost,at_risk_units,days_to_expiry,at_risk_pct,value_at_risk,risk_tier
+B0022,Sunrise East,TIMO_ED,Timolol eye drops,8460,2027-01-28,45.0,3332,87,0.394,149940.0,High
+B0054,Sunrise North,AMOX500,Amoxicillin 500mg,8444,2026-12-30,3.0,4229,58,0.501,12687.0,High
+B0008,Sunrise East,ATOR10,Atorvastatin 10mg,8981,2027-01-02,2.2,4788,61,0.533,10533.6,High
+B0025,Sunrise Main Campus,AMLO5,Amlodipine 5mg,5557,2026-11-22,1.5,4110,20,0.74,6165.0,High
+B0021,Sunrise East,PARA500,Paracetamol 500mg,8404,2026-11-23,0.8,7120,21,0.847,5696.0,High
+B0001,Sunrise East,AMLO5,Amlodipine 5mg,2246,2026-11-25,1.5,893,23,0.398,1339.5,High
+B0066,Sunrise North,IBU400,Ibuprofen 400mg,2707,2026-11-29,1.2,861,27,0.318,1033.2,High
+B0010,Sunrise East,CETI10,Cetirizine 10mg,2272,2026-11-25,1.0,881,23,0.388,881.0,High
+B0048,Sunrise Main Campus,TIMO_ED,Timolol eye drops,22036,2027-02-25,45.0,14796,115,0.671,665820.0,Medium
+B0076,Sunrise North,TIMO_ED,Timolol eye drops,10666,2027-03-14,45.0,1289,132,0.121,58005.0,Medium
+B0069,Sunrise North,OMEP20,Omeprazole 20mg,21181,2027-03-29,1.8,10898,147,0.515,19616.4,Medium
+B0016,Sunrise East,IBU400,Ibuprofen 400mg,14777,2027-04-18,1.2,6409,167,0.434,7690.8,Medium
+B0070,Sunrise North,OMEP20,Omeprazole 20mg,3398,2027-04-15,1.8,1929,164,0.568,3472.2,Medium
+B0063,Sunrise North,IBU400,Ibuprofen 400mg,8416,2027-03-16,1.2,2431,134,0.289,2917.2,Medium
+B0015,Sunrise East,IBU400,Ibuprofen 400mg,8627,2027-07-04,1.2,4847,244,0.562,5816.4,Low
+B0013,Sunrise East,IBU400,Ibuprofen 400mg,1946,2027-07-08,1.2,1602,248,0.823,1922.4,Low
+B0067,Sunrise North,OMEP20,Omeprazole 20mg,5284,2027-07-09,1.8,413,249,0.078,743.4,Low
