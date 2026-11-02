@@ -1,9 +1,3 @@
-pandas
-numpy
-prophet
-mlflow
-joblib
 streamlit
+pandas
 plotly
-requests
-tabulate
