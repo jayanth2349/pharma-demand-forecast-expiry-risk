@@ -48,3 +48,33 @@ tiers = st.multiselect("Tiers", ["High", "Medium", "Low"], default=["High", "Med
 st.dataframe(alerts[alerts.risk_tier.isin(tiers)][
     ["batch_id", "sku_name", "expiry_date", "days_to_expiry", "stock_units",
      "at_risk_units", "at_risk_pct", "value_at_risk", "risk_tier"]], use_container_width=True)
+
+import csv, datetime, os
+
+st.divider()
+st.subheader("Review this dashboard")
+with st.form("feedback", clear_on_submit=True):
+    reviewer = st.text_input("Your name or role")
+    heuristic = st.selectbox("Heuristic", [
+        "1. Visibility of system status", "2. Match with the real world",
+        "3. User control and freedom", "4. Consistency and standards",
+        "5. Error prevention", "6. Recognition rather than recall",
+        "7. Flexibility and efficiency", "8. Minimal design",
+        "9. Error messages and recovery", "10. Help and documentation"])
+    where = st.text_input("Where on the dashboard?")
+    severity = st.select_slider("Severity (0 = none, 4 = critical)", [0, 1, 2, 3, 4])
+    issue = st.text_area("What is the issue?")
+    fix = st.text_area("Suggested fix (optional)")
+    if st.form_submit_button("Submit feedback") and issue.strip():
+        new = not os.path.exists("feedback.csv")
+        with open("feedback.csv", "a", newline="", encoding="utf-8") as f:
+            w = csv.writer(f)
+            if new:
+                w.writerow(["time", "reviewer", "heuristic", "where", "severity", "issue", "fix"])
+            w.writerow([datetime.datetime.now().isoformat(timespec="seconds"),
+                        reviewer, heuristic, where, severity, issue, fix])
+        st.success("Feedback saved. Thank you.")
+
+if os.path.exists("feedback.csv"):
+    with open("feedback.csv", "rb") as f:
+        st.download_button("Download feedback log (CSV)", f, "feedback.csv")
